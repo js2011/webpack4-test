@@ -69,7 +69,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: './ad.html',
+      template: './20180918.html',
       // minify: {
       //   minimize: true,
       //   removeConments: true,
